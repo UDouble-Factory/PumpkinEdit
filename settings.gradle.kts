@@ -117,6 +117,7 @@ logger.lifecycle("""
 rootProject.name = "worldedit"
 
 includeBuild("build-logic")
+includeBuild("worldedit-pumpkin")
 
 include("worldedit-libs")
 

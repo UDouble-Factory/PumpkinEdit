@@ -13,6 +13,8 @@ autoValue = "1.10.4"
 antlr = "4.13.2"
 cuiProtocol = "4.0.3"
 
+pumpkinApi = "v0.1.6-java"
+
 errorprone = "2.48.0"
 
 crankcase = "0.1.3"
